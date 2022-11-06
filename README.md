@@ -1,3 +1,3 @@
 # blockchain-vote-react
-# voting-app-react
-# voting-app-react
+
+https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial
